@@ -7,7 +7,7 @@
 
 ## ⭐ Introduction
 
-This is an Animation Project built using HTML, CSS. This was a part of my Online Course Front End Assignment.
+This is a Simple Animation Assignment built using HTML, CSS. This was a part of my Online Course Front End Assignment.
 
    <br/>
 
